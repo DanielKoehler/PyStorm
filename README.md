@@ -3,6 +3,8 @@ Web app designed to allow the sharing and execution Python code to control a num
 
 This project is currently undergoing a certain amount of refactoring. As such it has not at present been commited to this public repository. 
 
+# Features
+
 ![Alt text](https://github.com/Technocamps/PyStorm/blob/documatation/repl_view.jpg?raw=true "Editor with Repl open.")
 
 # Architecture
